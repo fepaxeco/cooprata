@@ -1,0 +1,25 @@
+Proteína bruta (mínimo) 240,00 g
+Extrato etéreo (mínimo) 31,50 g
+FDA (máximo) 102,00 g
+Matéria Mineral (máximo) 73,70 g
+Cálcio (mínimo) 9.610,00 mg
+Cálcio (máximo) 12,00 g
+Fósforo (mínimo) 4.135,00 mg
+Enxofre (mínimo) 1.697,00 mg
+Magnésio (mínimo) 2.700,00 mg
+Potássio (mínimo) 8.020,00 mg
+Sódio (mínimo) 3.996,00 mg
+Cobalto (mínimo) 0,43 mg
+Cobre (mínimo) 18,00 mg
+Cromo (mínimo) 0,72 mg
+Ferro (mínimo) 12,00 mg
+Iodo (mínimo) 0,85 mg
+Manganês (mínimo) 57,80 mg
+Selênio (mínimo) 0,54 mg
+Zinco (mínimo) 90,45 mg
+Vitamina A (mínimo) 6.513,00 UI
+Vitamina D (mínimo) 2.171,00 UI
+Vitamina E (mínimo) 43,40 UI
+Monensina sódica (mínimo) 25,30 mg
+Biotina (mínimo) 1,80 mg
+Umidade (máximo) 130,00 g
